@@ -5,8 +5,8 @@ account: florecista
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 277153
-bundleId: 1216148
+bundleId: 1216408
 url: https://florecista.shinyapps.io/QPS-Offences-2017/
-when: 1518229384.84509
+when: 1518259941.16876
 asMultiple: FALSE
 asStatic: FALSE
